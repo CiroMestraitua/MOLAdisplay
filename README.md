@@ -1,3 +1,3 @@
 # MOLAdisplay
 
-Aplicación para tomar datod de una google sheet y representarlos en forma gráfica.
+Aplicación para tomar datos de una google sheet y representarlos en forma gráfica.
